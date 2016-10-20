@@ -3,3 +3,5 @@
 #
 # brainstormr=/Users/robbyrussell/Projects/development/planetargon/brainstormr
 #
+export PATH=/Users/jculveyhouse/rvbd/scripts:$PATH
+
